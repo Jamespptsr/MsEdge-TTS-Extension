@@ -14,7 +14,7 @@ This is a Text-to-Speech browser extension that uses MS Edge Online TTS service.
 - User-friendly interface
 - Language and country autocomplete for fast search
 
-## ⚠️ Important: API Fix Required (December 2024)
+## ⚠️ Important: API Fix Required (December 2025)
 
 Microsoft recently tightened their API security, requiring a specific Origin header that browsers cannot set. This fix uses a Cloudflare Worker as a proxy.
 
@@ -39,6 +39,7 @@ Microsoft recently tightened their API security, requiring a specific Origin hea
 
 See [cloudflare-worker/README.md](cloudflare-worker/README.md) for details.
 
+If you have any questions about this update, you can email zhang920168@gmail.com
 ---
 
 ## Installation
